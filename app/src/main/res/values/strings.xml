@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="btn_ON">ON</string>
+    <string name="btn_OFF">OFF</string>
+    <string name="btn_play">PLAY</string>
+    <string name="tview">GANHOU!!</string>
+</resources>
